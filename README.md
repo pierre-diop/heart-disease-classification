@@ -16,8 +16,8 @@ The goal is to achieve 95% accuracy in predicting heart disease during the proof
 ### 4. Features
 The dataset includes the following clinical parameters:
 
-age: Age of the patient in years
-sex: Gender (1 = male, 0 = female)
+* age: Age of the patient in years
+* sex: Gender (1 = male, 0 = female)
 cp: Chest pain type
 0: Typical angina
 1: Atypical angina
