@@ -7,8 +7,8 @@ This project explores the use of various Python-based machine learning and data 
 Can we predict whether or not a patient has heart disease given their clinical parameters?
 
 ### 2. Data
-The dataset used is the Cleveland dataset from the UCI Machine Learning Repository.
-An alternate version is available on Kaggle.
+The dataset used is the Cleveland dataset from the UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/45/heart+disease
+An alternate version is available on Kaggle: https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-dataset
 
 ### 3. Evaluation
 The goal is to achieve 95% accuracy in predicting heart disease during the proof-of-concept phase.
