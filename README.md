@@ -37,5 +37,5 @@ The dataset includes the following clinical parameters:
 * target: Target variable (1 = heart disease, 0 = no heart disease)
 For a detailed data dictionary, refer to the dataset's official documentation.
 
-### 5. Modelling
+### 5. Modeling
 This project involves developing and experimenting with machine learning models to predict heart disease. The focus is on feature engineering, exploratory data analysis (EDA), and evaluating different algorithms to achieve the best accuracy.
